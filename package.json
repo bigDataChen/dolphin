@@ -30,6 +30,7 @@
   "dependencies": {
     "bcrypt": "^0.8.5",
     "boom": "^3.1.2",
+    "bootstrap-switch": "^3.3.4",
     "handlebars": "^4.0.5",
     "hapi": "^13.0.0",
     "hapi-register": "^1.0.13",
